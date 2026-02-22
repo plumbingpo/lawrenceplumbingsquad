@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lawrenceplumbingsquad.com/sitemap.xml
